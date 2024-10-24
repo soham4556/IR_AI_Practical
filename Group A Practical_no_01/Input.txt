@@ -1,0 +1,1 @@
+This is a  simple  example  file  contain  multiple  liny some  punctuation  It  also  contain  common  stopword  We  will  remove  punctuation  stopword  then  perform  suffix  strippy Final we  will  count  frequency  remainy word  Word  like  runny joggy happy happy baby magnificent will  be  reducy Let  see  how  it  work
